@@ -1,0 +1,45 @@
+﻿Question,Answer,Document
+what are the common evaluation metrics in supervised Learning,"Accuracy, Precison, recall, F1 score and roc-auc",Machine Learning
+What the the different types in ML?,"Supervised Learning, Unsupervised Learning and Reinforcement Learning",Machine Learning
+What are foundational techniques used in predictive modeling?,Linear regression and logistic regression,Machine Learning
+Which technique is used to validate the model's performance on unseen data?,Cross-validation,Machine Learning
+How is ML used in healthcare?,"disease prediction, medical imaging, and personalized medicine",Machine Learning
+What are the things that impacts the model performance?,"Data quality, quantity, and representativeness",Machine Learning
+How does Reinforcement learning works?,agent interacting with an environment and learning through rewards and punishments,Machine Learning
+What are the realworld applications of ML?,"email filtering, speech recognition, recommendation systems, and autonomous vehicles",Machine Learning
+What is an ML ethical issue?,Bias in data,Machine Learning
+what does the network security do?,protecting internal networks from intrusions,Cybersecurity
+What does malware refers to and what it's like?,"malicious software  like viruses, worms, and ransomware designed to harm systems",Cybersecurity
+What does phishing attack do?,trick users into revealing sensitive information through fake emails or websites,Cybersecurity
+What does DOS do?,floods a system with traffic to make it unavailable,Cybersecurity
+what records are made safe in the healthcare industry?,patient,Cybersecurity
+what does Firewalls do,block unauthorized access to networks,Cybersecurity
+What does security awareness training means?,educates employees on recognizing threats like phishing,Cybersecurity
+What does an Antivirus software do?,scans and removes malicious files,Cybersecurity
+What is Multi Factor Authentication do? ,adds an extra layer of security by requiring more than one credential to access resources,Cybersecurity
+What does social networking refers?,"to the use of online platforms that allow individuals to connect, communicate, share content, and build communities",Social Networking
+What is GDPR?,general data protection regulation ,Social Networking
+What is the future of Social Networking?,integration with virtual reality (VR) and augmented reality (AR) to create immersive experiences,Social Networking
+What are the emerging trends in social networking?,"AI-powered personalization, voice-based interaction, and decentralized social networks",Social Networking
+what kind of user data is collected from the social networking platforms?,"personal information, location data, and user behavior ",Social Networking
+what is the cambridge analytica scandal?,breaches and misuse of data ,Social Networking
+what is the impact of social networking on the society?,Social networking has changed societal dynamics,Social Networking
+What are the examples of media sharing networks?,"instagram, snapchat, and tiktok ",Social Networking
+What is the use of web technology?,communication between different devices over the internet ,Web Technology
+what are the core components of web technology?,"html (hypertext markup language), css (cascading style sheets), and javascript",Web Technology
+what does the backend development mean?,"working on server-side logic, databases, and application performance",Web Technology
+what does DNS do?,translates domain names into IP addresses,Web Technology
+What is w3c and what it is responsible for?,world wide web consortium  responsible for standardizing web technologies,Web Technology
+what are the web hosting services?,"github pages, netlify, vercel, heroku, and aws offer deployment solutions",Web Technology
+what are the common threats in web development?,"cross-site scripting (xss), sql injection, and cross-site request forgery (csrf)",Web Technology
+what are the famous front-end frameworks?,"react, angular, and vue.js ",Web Technology
+what is the future trends of web technology?,"the rise of progressive web apps (pwas), webassembly, and serverless architecture ",Web Technology
+what do you mean by artificial intelligence?,is a branch of computer science focused on creating machines that can perform tasks that typically require human intelligence,Artificial Intelligence
+what is a narrow AI?,Designed for specific tasks like voice assistants or facial recognition,Artificial Intelligence
+what are the ethical concerns raised in ai?,"bias in decision-making,  privacy issues,  job displacement, lack of transparency ",Artificial Intelligence
+what are the future outlooks of ai?,"advances in deep learning, generative AI, and edge computing",Artificial Intelligence
+what are the popular ai tools?," include TensorFlow, PyTorch, Keras, and OpenAI’s APIs",Artificial Intelligence
+what are the subfields of ai?," Robotics, Expert Systems, Speech Recognition",Artificial Intelligence
+how ai is used in transportation?,Autonomous vehicles and traffic management,Artificial Intelligence
+What does NLP do?,Allows machines to understand human language.,Artificial Intelligence
+which cloud platforms offers scalable ai service?,"Google AI, AWS AI, and Azure AI",Artificial Intelligence
